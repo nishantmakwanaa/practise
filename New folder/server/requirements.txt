@@ -1,5 +1,0 @@
-flask==2.0.1
-flask-cors==3.0.10
-psycopg2-binary==2.9.3
-requests==2.28.1
-python-dotenv==0.20.0
